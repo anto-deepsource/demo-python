@@ -111,13 +111,11 @@ def check(x):
         print("Why even?")
 
 
-
 def chained_comparison():
     a = 1
     b = 2
     c = 3
     return a < b and b < c
-
 
 
 if __name__ == "__main__":
